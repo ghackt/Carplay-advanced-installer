@@ -1,0 +1,3 @@
+48d2e6c2e49c29181203ef2d477e9da8c2a6aac601f365cb3f40a8416db82d62  CarPlay_Advanced_Installer_1.1.0.apk
+696dcfb1d8ee8e23bad3304b2c00894f1d3302495b900b91d9d8b0103f8fa235  nbtevo-carplay-advanced-1.0.0-payload.zip
+b542102884acd4c063bc3596678ac3ad97715c92f1fae73cb91386639f4543eb  nbtevo-carplay-advanced-1.1.0-payload.zip

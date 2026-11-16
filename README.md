@@ -27,6 +27,6 @@ See [`release/`](release/): `CarPlay_Advanced_Installer_1.1.0.apk`, the payload 
 - **@Sq00ky** - [Supra-iDrive6-Android-Auto](https://github.com/Sq00ky/Supra-iDrive6-Android-Auto), where the original NBTEvo Release Manager app comes from.
 - **@BimmerTuner** - the APK this was rebuilt from was shared via their repo [BimmerTuner/Supra-iDrive6-Android-Auto](https://github.com/BimmerTuner/Supra-iDrive6-Android-Auto). I have not confirmed they wrote any of it.
 
-## Licence
+## License
 The bundled nbtevo-carplay-advanced files are under the **PolyForm Noncommercial 1.0.0** licence: personal/hobby use only, no selling or commercial use. Copies of its LICENSE and NOTICE are in [`licenses/`](licenses/).
 I have not verified the licence of the original app; rights in it remain with its authors.

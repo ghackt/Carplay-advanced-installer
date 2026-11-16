@@ -17,6 +17,8 @@ Android Device
 
 When connecting with Ethernet Tethering you will need a WiFi hot spot of some sort to pull request the files from repository.
 
+## Please restart Head Unit from the app after Flash is complete.
+
 ## NOTE
 
 IF SSH IN FAILS. RESTART HU WITHIN THE APP AND ATTEMPT TO RECONNECT WHILE IT's RESTARTING.
@@ -24,9 +26,6 @@ IF SSH IN FAILS. RESTART HU WITHIN THE APP AND ATTEMPT TO RECONNECT WHILE IT's R
 ## What is this?
 
 This has been rebuilt off of BimmerTuner's APK file but to allow install for CarPlay Custom Nav Menu and custom HUD arrows (if Cluster and HU support it or will use native supported).
-
-I do not take full credit for this software: it is beyond my level of expertise, and it was rebuilt using some of my knowledge and some AI for stability tweaks.
-**Please report any bugs if you come across them** (open an Issue).
 
 Android app that connects to a BMW NBT Evo head unit, unlocks SSH, backs up the head unit, installs
 [nbtevo-carplay-advanced](https://github.com/st1ng/nbtevo-carplay-advanced) (v1.1.0 and beyond bundled in the app) and can uninstall/restore.
@@ -84,6 +83,11 @@ Disclaimer. This project is for educational purposes only. Run it only on a car 
 https://github.com/ghackt/Carplay-advanced-installer/releases/
 
 See [`release/`](release/): `CarPlay_Advanced_Installer_1.1.0.apk`, the payload zips and `SHA256SUMS.txt`.
+
+## Additional Information
+
+I do not take full credit for this software: it is beyond my level of expertise, and it was rebuilt using some of my knowledge and some AI for stability tweaks.
+**Please report any bugs if you come across them** (open an Issue).
 
 ## License
 

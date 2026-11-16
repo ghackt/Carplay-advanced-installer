@@ -18,6 +18,8 @@ Android Device
 
 When connecting with Ethernet Tethering you will need a WiFi hot spot of some sort to pull request the files from repository.
 
+Ethernet tethering can be enabled in your “hotspot settings” for most Android devices
+
 ## Please restart Head Unit from the app after Flash is complete.
 
 ## NOTE

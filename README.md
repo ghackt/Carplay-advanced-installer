@@ -52,13 +52,7 @@ It is an HMI plugin plus a few small libraries that hook into the head unit's ow
 
 Disclaimer. This project is for educational purposes only. Run it only on a car you own, at your own risk: you alone are responsible for whatever it does to your head unit, your car and its warranty, and for using it in line with the law where you drive. Never operate it while driving. It comes with no warranty of any kind.
 
-> tested on a real head unit. J29 / A90 Supra but use at your own risk; back up first.
-
-## Download
-
-https://github.com/ghackt/Carplay-advanced-installer/releases/
-
-See [`release/`](release/): `CarPlay_Advanced_Installer_1.1.0.apk`, the payload zips and `SHA256SUMS.txt`.
+> ## Tested on a real head unit. J29 / A90 Supra but use at your own risk; Always back up first.
 
 ## Credits (all original work belongs to them)
 - **@st1ng** - author of [nbtevo-carplay-advanced](https://github.com/st1ng/nbtevo-carplay-advanced), the payload this app installs.
@@ -74,6 +68,12 @@ See [`release/`](release/): `CarPlay_Advanced_Installer_1.1.0.apk`, the payload 
  ## Donations or Coffee Giving
  
  - If you are feeling generous I like a lot of Starbucks coffee.. (: <link>https://www.paypal.me/JamieBland371</link>
+
+ ## Download
+
+https://github.com/ghackt/Carplay-advanced-installer/releases/
+
+See [`release/`](release/): `CarPlay_Advanced_Installer_1.1.0.apk`, the payload zips and `SHA256SUMS.txt`.
 
 ## License
 

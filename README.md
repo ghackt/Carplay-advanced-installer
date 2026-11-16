@@ -70,6 +70,8 @@ See [`release/`](release/): `CarPlay_Advanced_Installer_1.1.0.apk`, the payload 
 - **@st1ng** 
 - **@Sq00ky** 
 - **@BimmerTuner**
+
+ ## Donations or Coffee Giving
  
  - If you are feeling generous I like a lot of Starbucks coffee.. (: <link>https://www.paypal.me/JamieBland371</link>
 

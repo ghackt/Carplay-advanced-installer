@@ -35,6 +35,8 @@ Also has "Connect to your BMW" and "Restart head unit". The release list is read
 
 Apple CarPlay add-ons for the BMW / MINI NBT Evo head unit (iDrive 5 and iDrive 6): a CarPlay Advanced Settings menu in Media/Radio, and the iPhone's turn-by-turn directions in the cluster and the head-up display.
 
+## What the app does
+
 It unlocks SSH on the head unit the same way the original app did.
 It checks the head unit’s software and saves a backup to your phone.
 It allows for easy updates as developer continues to add new things and fixes bugs.
@@ -44,6 +46,10 @@ It copies the head unit’s backup folder back to your phone.
 
 The app launches the project’s own installer script, not a reimplementation, and I checked the command line against that script. The two software versions the script knows about are ID5 1803-510-1749MA Build 71 and ID5 1703-490-1650ZD Build 139. Anything else gets the HUD-only install.
 
+The install command targets ID5 (--kind id5), so I haven’t checked ID6 units. Try it with the car connected and send me whatever the app’s log shows. If it stops partway, I can fix it from that.
+
+It is an HMI plugin plus a few small libraries that hook into the head unit's own processes at run time. Apart from one line added to the boot script, no system file is replaced or patched on disk, and one installer script puts it on (and takes it off) over the car's ENET connection, with backups of everything it touches.
+
 ## Things that could still go wrong on a car:
 
 A mistake in the new smali I wrote for the upload, install or backup steps, which I could only read through.
@@ -52,10 +58,6 @@ The install script taking longer than 5 mins as decompression of install is arou
 You are testing on a non iDrive 5 or iDrive 6 Headunit.
 Your Head Unit Base Firmware needs support.
 a 3rd party used a tool that rewrote and locked the file system for some other modifications to the Head Unit.
-
-The install command targets ID5 (--kind id5), so I haven’t checked ID6 units. Try it with the car connected and send me whatever the app’s log shows. If it stops partway, I can fix it from that.
-
-It is an HMI plugin plus a few small libraries that hook into the head unit's own processes at run time. Apart from one line added to the boot script, no system file is replaced or patched on disk, and one installer script puts it on (and takes it off) over the car's ENET connection, with backups of everything it touches.
 
 Disclaimer. This project is for educational purposes only. Run it only on a car you own, at your own risk: you alone are responsible for whatever it does to your head unit, your car and its warranty, and for using it in line with the law where you drive. Never operate it while driving. It comes with no warranty of any kind.
 

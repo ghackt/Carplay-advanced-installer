@@ -7,7 +7,13 @@
 <img width="5712" height="4284" alt="IMG_4478" src="https://github.com/user-attachments/assets/86b581c7-0184-4280-9d90-d2d12e09d181" />
 
 
-An easy installer for those who have issues using SSH and installing things manually.
+An easy AIO installer for those who have issues using SSH and installing things manually like I do sometimes.
+
+## Requirements
+
+ENET with USB-C Adapter
+Android Device
+When connecting with Ethernet Tethering you will need a WiFi hot spot of some sort to pull request the files from repository.
 
 This has been rebuilt off of BimmerTuner's APK file but to allow install for CarPlay nav.
 I do not take credit for this software: it is beyond my level of expertise and it was rebuilt using AI.

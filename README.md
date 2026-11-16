@@ -21,7 +21,7 @@ When connecting with Ethernet Tethering you will need a WiFi hot spot of some so
 
 IF SSH IN FAILS. RESTART HU WITHIN THE APP AND ATTEMPT TO RECONNECT WHILE IT's RESTARTING.
 
-## What it does
+## What is this?
 
 This has been rebuilt off of BimmerTuner's APK file but to allow install for CarPlay Custom Nav Menu and custom HUD arrows (if Cluster and HU support it or will use native supported).
 
@@ -35,7 +35,7 @@ Also has "Connect to your BMW" and "Restart head unit". The release list is read
 
 Apple CarPlay add-ons for the BMW / MINI NBT Evo head unit (iDrive 5 and iDrive 6): a CarPlay Advanced Settings menu in Media/Radio, and the iPhone's turn-by-turn directions in the cluster and the head-up display.
 
-## What the app does
+## What does the app do?
 
 It unlocks SSH on the head unit the same way the original app did.
 It checks the head unit’s software and saves a backup to your phone.
@@ -50,7 +50,7 @@ The install command targets ID5 (--kind id5), so I haven’t checked ID6 units. 
 
 It is an HMI plugin plus a few small libraries that hook into the head unit's own processes at run time. Apart from one line added to the boot script, no system file is replaced or patched on disk, and one installer script puts it on (and takes it off) over the car's ENET connection, with backups of everything it touches.
 
-## Things that could still go wrong on a car:
+## Things that could go wrong on a car
 
 A mistake in the new smali I wrote for the upload, install or backup steps, which I could only read through.
 The SSH unlock failing on your head unit.

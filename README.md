@@ -44,11 +44,14 @@ It copies the head unit’s backup folder back to your phone.
 
 The app launches the project’s own installer script, not a reimplementation, and I checked the command line against that script. The two software versions the script knows about are ID5 1803-510-1749MA Build 71 and ID5 1703-490-1650ZD Build 139. Anything else gets the HUD-only install.
 
-Things that could still go wrong on a real car:
+## Things that could still go wrong on a car:
 
 A mistake in the new smali I wrote for the upload, install or backup steps, which I could only read through.
 The SSH unlock failing on your head unit.
-## The install script taking longer than 5 mins as decompression of install is around 60MB flash.
+The install script taking longer than 5 mins as decompression of install is around 60MB flash.
+You are testing on a non iDrive 5 or iDrive 6 Headunit.
+Your Head Unit Base Firmware needs support.
+a 3rd party used a tool that rewrote and locked the file system for some other modifications to the Head Unit.
 
 The install command targets ID5 (--kind id5), so I haven’t checked ID6 units. Try it with the car connected and send me whatever the app’s log shows. If it stops partway, I can fix it from that.
 

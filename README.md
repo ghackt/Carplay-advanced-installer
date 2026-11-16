@@ -48,7 +48,7 @@ Things that could still go wrong on a real car:
 
 A mistake in the new smali I wrote for the upload, install or backup steps, which I could only read through.
 The SSH unlock failing on your head unit.
-The install script taking longer than the app’s 60-second wait for a command to finish.
+## The install script taking longer than 5 mins as decompression of install is around 60MB flash.
 
 The install command targets ID5 (--kind id5), so I haven’t checked ID6 units. Try it with the car connected and send me whatever the app’s log shows. If it stops partway, I can fix it from that.
 

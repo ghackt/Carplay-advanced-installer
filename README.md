@@ -58,6 +58,8 @@ You are testing on a non iDrive 5 or iDrive 6 Headunit.
 Your Head Unit Base Firmware needs support.
 a 3rd party used a tool that rewrote and locked the file system for some other modifications to the Head Unit.
 
+## I have tested this also while having Android Auto Install. I did not have any issues or complications as HUD nav is taken priority by whether you are using Carplay or Android Auto would not recommend trying to use both at the same time. Also cannot guarantee you will not run into issues using both installs.
+
 Disclaimer. This project is for educational purposes only. Run it only on a car you own, at your own risk: you alone are responsible for whatever it does to your head unit, your car and its warranty, and for using it in line with the law where you drive. Never operate it while driving. It comes with no warranty of any kind.
 
 > ## Tested on a real head unit. J29 / A90 Supra but use at your own risk; Always back up first.

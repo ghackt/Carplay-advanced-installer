@@ -81,7 +81,9 @@ Disclaimer. This project is for educational purposes only. Run it only on a car 
 - **@BimmerTuner**
 
  ## Donations or Coffee Giving
- 
+
+ - Tired of all these companies charging outrageous prices for other people’s work. also tired of these Chinese companies forcing people to buy MMI boxes and taking advantage of us all.
+   
  - If you are feeling generous I like a lot of Starbucks coffee.. (: <link>https://www.paypal.me/JamieBland371</link>
 
  ## Download

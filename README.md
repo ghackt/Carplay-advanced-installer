@@ -52,7 +52,8 @@ Disclaimer. This project is for educational purposes only. Run it only on a car 
 > tested on a real head unit. J29 / A90 Supra but use at your own risk; back up first.
 
 ## Download
-https://github.com/ghackt/Carplay-advanced-installer/releases/tag/NBTEvo
+
+[https://github.com/ghackt/Carplay-advanced-installer/releases/tag/NBTEvo](https://github.com/ghackt/Carplay-advanced-installer/releases)
 
 See [`release/`](release/): `CarPlay_Advanced_Installer_1.1.0.apk`, the payload zips and `SHA256SUMS.txt`.
 

@@ -19,18 +19,21 @@ When connecting with Ethernet Tethering you will need a WiFi hot spot of some so
 
 ## What it does
 
-This has been rebuilt off of BimmerTuner's APK file but to allow install for CarPlay nav.
+This has been rebuilt off of BimmerTuner's APK file but to allow install for CarPlay Custom Nav Menu and custom HUD arrows (if Cluster and HU support it or will use native supported).
+
 I do not take credit for this software: it is beyond my level of expertise and it was rebuilt using AI.
 **Please report any bugs if you come across them** (open an Issue).
 
 Android app that connects to a BMW NBT Evo head unit, unlocks SSH, backs up the head unit, installs
-[nbtevo-carplay-advanced](https://github.com/st1ng/nbtevo-carplay-advanced) (v1.1.0 or v1.0.0, bundled in the app), and can uninstall/restore.
+[nbtevo-carplay-advanced](https://github.com/st1ng/nbtevo-carplay-advanced) (v1.1.0 and beyond bundled in the app) and can uninstall/restore.
+
 Also has "Connect to your BMW" and "Restart head unit". The release list is read live from the st1ng repo (offline it falls back to the bundled list).
 
 Apple CarPlay add-ons for the BMW / MINI NBT Evo head unit (iDrive 5 and iDrive 6): a CarPlay Advanced Settings menu in Media/Radio, and the iPhone's turn-by-turn directions in the cluster and the head-up display.
 
 It unlocks SSH on the head unit the same way the original app did.
 It checks the head unit’s software and saves a backup to your phone.
+It allows for easy updates as developer continues to add new things and fixes bugs.
 It uploads the installer script and the plugin files, and checks each upload by comparing its SHA-256 hash.
 It runs carplay-advanced.sh install on the head unit, in full mode for known software versions and in HUD-only mode for any other.
 It copies the head unit’s backup folder back to your phone.

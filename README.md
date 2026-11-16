@@ -17,6 +17,10 @@ Android Device
 
 When connecting with Ethernet Tethering you will need a WiFi hot spot of some sort to pull request the files from repository.
 
+## NOTE
+
+IF SSH IN FAILS. RESTART HU WITHIN THE APP AND ATTEMPT TO RECONNECT WHILE IT's RESTARTING.
+
 ## What it does
 
 This has been rebuilt off of BimmerTuner's APK file but to allow install for CarPlay Custom Nav Menu and custom HUD arrows (if Cluster and HU support it or will use native supported).

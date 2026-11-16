@@ -21,7 +21,7 @@ When connecting with Ethernet Tethering you will need a WiFi hot spot of some so
 
 This has been rebuilt off of BimmerTuner's APK file but to allow install for CarPlay Custom Nav Menu and custom HUD arrows (if Cluster and HU support it or will use native supported).
 
-I do not take credit for this software: it is beyond my level of expertise and it was rebuilt using AI.
+I do not take full credit for this software: it is beyond my level of expertise, and it was rebuilt using some of my knowledge and some AI for stability tweaks.
 **Please report any bugs if you come across them** (open an Issue).
 
 Android app that connects to a BMW NBT Evo head unit, unlocks SSH, backs up the head unit, installs

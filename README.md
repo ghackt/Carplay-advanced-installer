@@ -1,4 +1,4 @@
-# Carplay-advanced-installer
+# Carplay-Advanced-Installer. Identical to NBT EVO APK Developed by @BimmerTuner. But for Carplay Capabilities for ID5 and ID5
 
 An easy installer for those who have issues using SSH and installing things manually.
 

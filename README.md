@@ -14,7 +14,9 @@ An easy AIO installer for those who have issues using SSH and installing things 
 ## Requirements
 
 ENET with USB-C Adapter
+
 Android Device
+
 When connecting with Ethernet Tethering you will need a WiFi hot spot of some sort to pull request the files from repository.
 
 ## What it does

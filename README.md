@@ -1,10 +1,12 @@
 # Carplay-Advanced-Installer. Identical to NBT EVO APK Originally Developed by @BimmerTuner. But for Carplay Capabilities for ID5 and ID6
 
+<img width="5712" height="4284" alt="IMG_4478" src="https://github.com/user-attachments/assets/86b581c7-0184-4280-9d90-d2d12e09d181" />
+<img width="4284" height="5712" alt="IMG_4483" src="https://github.com/user-attachments/assets/29c190d7-90f9-4dd4-9872-16484c7fd069" />
 <img width="4284" height="5712" alt="IMG_4487" src="https://github.com/user-attachments/assets/29448410-a0fe-45c1-a91d-b6e6a4bd8a68" />
 <img width="4284" height="5712" alt="IMG_4485" src="https://github.com/user-attachments/assets/6e45b9f1-9bd6-442a-8fca-8f155e095d26" />
 <img width="4284" height="5712" alt="IMG_4484" src="https://github.com/user-attachments/assets/cf7ebf08-760f-4d72-98b5-b1a4aafd8690" />
-<img width="4284" height="5712" alt="IMG_4483" src="https://github.com/user-attachments/assets/29c190d7-90f9-4dd4-9872-16484c7fd069" />
-<img width="5712" height="4284" alt="IMG_4478" src="https://github.com/user-attachments/assets/86b581c7-0184-4280-9d90-d2d12e09d181" />
+
+
 
 
 An easy AIO installer for those who have issues using SSH and installing things manually like I do sometimes.
@@ -15,11 +17,12 @@ ENET with USB-C Adapter
 Android Device
 When connecting with Ethernet Tethering you will need a WiFi hot spot of some sort to pull request the files from repository.
 
+## What it does
+
 This has been rebuilt off of BimmerTuner's APK file but to allow install for CarPlay nav.
 I do not take credit for this software: it is beyond my level of expertise and it was rebuilt using AI.
 **Please report any bugs if you come across them** (open an Issue).
 
-## What it does
 Android app that connects to a BMW NBT Evo head unit, unlocks SSH, backs up the head unit, installs
 [nbtevo-carplay-advanced](https://github.com/st1ng/nbtevo-carplay-advanced) (v1.1.0 or v1.0.0, bundled in the app), and can uninstall/restore.
 Also has "Connect to your BMW" and "Restart head unit". The release list is read live from the st1ng repo (offline it falls back to the bundled list).

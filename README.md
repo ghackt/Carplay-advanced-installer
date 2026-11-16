@@ -53,7 +53,7 @@ Disclaimer. This project is for educational purposes only. Run it only on a car 
 
 ## Download
 
-[https://github.com/ghackt/Carplay-advanced-installer/releases/tag/NBTEvo](https://github.com/ghackt/Carplay-advanced-installer/releases)
+https://github.com/ghackt/Carplay-advanced-installer/releases/
 
 See [`release/`](release/): `CarPlay_Advanced_Installer_1.1.0.apk`, the payload zips and `SHA256SUMS.txt`.
 

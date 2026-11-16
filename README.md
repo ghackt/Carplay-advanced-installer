@@ -67,6 +67,7 @@ Disclaimer. This project is for educational purposes only. Run it only on a car 
 - **@st1ng** - author of [nbtevo-carplay-advanced](https://github.com/st1ng/nbtevo-carplay-advanced), the payload this app installs.
 - **@Sq00ky** - [Supra-iDrive6-Android-Auto](https://github.com/Sq00ky/Supra-iDrive6-Android-Auto), where the original NBTEvo Release Manager app comes from.
 - **@BimmerTuner** - the APK this was rebuilt from was shared via their repo [BimmerTuner/Supra-iDrive6-Android-Auto](https://github.com/BimmerTuner/Supra-iDrive6-Android-Auto). I have not confirmed they wrote any of it.
+- **@Ghackt** compiling all sources into a tested and working android application.
 
  ## I don't charge for Anything. If you paid for this from someone or someone is stealing this work, please report it to us.
 

@@ -20,7 +20,9 @@ Wireless adapter support remains experimental until further releases are made an
 
 ENET with USB-C Adapter
 
-Android Device
+BM3 or MHD dongles
+
+A Reliable Android Device with storage space
 
 When connecting with Ethernet Tethering you will need a WiFi hot spot of some sort to pull request the files from repository.
 

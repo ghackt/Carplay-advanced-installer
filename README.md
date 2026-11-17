@@ -73,6 +73,26 @@ a 3rd party used a tool that rewrote and locked the file system for some other m
 Waze does not natively fully support cluster and heads-up Display.
 **You may still use Apple Maps and Google Maps with no issues**
 
+## Where the fuck are the settings?
+
+The menu:
+
+Media/Radio > CarPlay Advanced Settings
+  Full-screen CarPlay
+  CarPlay directions in HUD
+  HUD effects >        Fill toward the turn / Blink near the turn / Effect colour > (Orange, Grey, White)
+  iDrive control >     Enable knob tilts
+                       Touchpad >   Enable touchpad / Tap touchpad as click / Touchpad sensitivity > (Low, Medium, High)
+                                    / Two fingers tap to back
+                       Enable rotation as zoom
+  Restart to apply
+On iDrive 6 the HMI already does full screen, knob tilts and the touchpad (when the car is coded for it), so there the installer puts on the turn-by-turn part by default (--hud), with a HUD-only menu in the same place in Media/Radio:
+
+Media/Radio > CarPlay Advanced Settings
+  CarPlay directions in HUD
+  HUD effects >        Fill toward the turn / Blink near the turn / Effect colour > (Orange, Grey, White)
+
+
 ## I have tested this also while having Android Auto Install. I did not have any issues or complications as HUD nav is taken priority by whether you are using Carplay or Android Auto would not recommend trying to use both at the same time. Also cannot guarantee you will not run into issues using both installs.
 
 Disclaimer. This project is for educational purposes only. Run it only on a car you own, at your own risk: you alone are responsible for whatever it does to your head unit, your car and its warranty, and for using it in line with the law where you drive. Never operate it while driving. It comes with no warranty of any kind.

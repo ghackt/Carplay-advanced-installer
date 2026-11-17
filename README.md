@@ -1,6 +1,5 @@
 # Carplay-Advanced-Installer. Identical to NBT EVO APK Originally Developed by @BimmerTuner. But for Carplay Gauge / HUD Navigation Capabilities for ID5 and ID6
 <img width="1206" height="880" alt="IMG_4488" src="https://github.com/user-attachments/assets/63d0d81f-be19-4f0c-a967-fed3e2ceee84" />
-<img width="862" height="582" alt="Screenshot 2026-11-17 015927" src="https://github.com/user-attachments/assets/9119b5af-80d3-45f9-9450-9e264324ec56" />
 <img width="5712" height="4284" alt="IMG_4478" src="https://github.com/user-attachments/assets/86b581c7-0184-4280-9d90-d2d12e09d181" />
 <img width="4284" height="5712" alt="IMG_4483" src="https://github.com/user-attachments/assets/29c190d7-90f9-4dd4-9872-16484c7fd069" />
 <img width="4284" height="5712" alt="IMG_4485" src="https://github.com/user-attachments/assets/6e45b9f1-9bd6-442a-8fca-8f155e095d26" />
@@ -19,10 +18,10 @@ Wireless adapter support remains experimental until further releases are made an
 ## Requirements
 
 ENET with USB-C Adapter
-
+<img width="702" height="621" alt="Screenshot 2026-11-17 015742" src="https://github.com/user-attachments/assets/ef89e84e-a7f4-4b11-8a95-e51c3a39af1f" />
 
 BM3 or MHD dongles
-<img width="702" height="621" alt="Screenshot 2026-11-17 015742" src="https://github.com/user-attachments/assets/ef89e84e-a7f4-4b11-8a95-e51c3a39af1f" />
+<img width="862" height="582" alt="Screenshot 2026-11-17 015927" src="https://github.com/user-attachments/assets/9119b5af-80d3-45f9-9450-9e264324ec56" />
 
 A Reliable Android Device with storage space
 

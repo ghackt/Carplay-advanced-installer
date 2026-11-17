@@ -71,6 +71,7 @@ a 3rd party used a tool that rewrote and locked the file system for some other m
 
 ## Known issues…
 Waze does not natively fully support cluster and heads-up Display.
+regarding Waze: https://waze.uservoice.com/forums/59223-waze-suggestion-box/suggestions/50043126-prioritize-full-carplay-integration-hud-instrum
 **You may still use Apple Maps and Google Maps with no issues**
 
 ## Where the fuck are the settings?

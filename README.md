@@ -1,3 +1,4 @@
+<img width="702" height="621" alt="Screenshot 2026-11-17 015742" src="https://github.com/user-attachments/assets/ef89e84e-a7f4-4b11-8a95-e51c3a39af1f" />
 # Carplay-Advanced-Installer. Identical to NBT EVO APK Originally Developed by @BimmerTuner. But for Carplay Gauge / HUD Navigation Capabilities for ID5 and ID6
 
 <img width="1206" height="880" alt="IMG_4488" src="https://github.com/user-attachments/assets/63d0d81f-be19-4f0c-a967-fed3e2ceee84" />

@@ -102,6 +102,10 @@ Disclaimer. This project is for educational purposes only. Run it only on a car 
 > ## Tested on a real head unit. J29 / A90 Supra but use at your own risk; Always back up first.
 
 ## Credits (all original work belongs to them)
+## NBT-AAD by nanaisu: Android Auto for the NBT Evo. This project stands on their reverse engineering: the HMI plugin interface, the MOST/DSI client and the HUD terminal layout, and the Ethernet KOMBI route-guidance stack, which src/kombi.h ports (with their captured route graph, src/kombitemplate.h, unchanged). Thank you.
+## NBT-AAD USB Tools by Yalozo: the installer's pre-installation checks follow theirs.
+## Mapbox Navigation SDK for iOS v0.40.0: the maneuver and lane drawings (ISC licence), turned into HUD polygons by tools/hud_glyphs.py.
+## ftojke/BMW-iDrive6-CarPlay-HUD, JayJay3071/nbt-android-auto, luka-dev/mib2q-carplay-rgi and f-io/LIVI: findings and formats that helped (AGENTS.md, References).
 - **@st1ng** - author of [nbtevo-carplay-advanced](https://github.com/st1ng/nbtevo-carplay-advanced), the payload this app installs.
 - **@Sq00ky** - [Supra-iDrive6-Android-Auto](https://github.com/Sq00ky/Supra-iDrive6-Android-Auto), where the original NBTEvo Release Manager app comes from.
 - **@BimmerTuner** - the APK this was rebuilt from was shared via their repo [BimmerTuner/Supra-iDrive6-Android-Auto](https://github.com/BimmerTuner/Supra-iDrive6-Android-Auto). I have not confirmed they wrote any of it.

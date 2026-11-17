@@ -10,6 +10,12 @@
 
 An easy AIO installer for those who have issues using SSH and installing things manually like I do sometimes.
 
+## Features Wired and wireless 
+
+Separate connection modes for Wired ENET and Wireless Adapter (BM3 & MHD).
+
+Wireless adapter support remains experimental until further releases are made and requires compatible hardware.
+
 ## Requirements
 
 ENET with USB-C Adapter

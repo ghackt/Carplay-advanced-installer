@@ -138,10 +138,10 @@ Disclaimer. This project is for educational purposes only. Run it only on a car 
  - Tired of all these companies charging outrageous prices for other people’s work. Also tired of these Chinese companies forcing people to buy MMI boxes and taking advantage of us all.
    
  - If you are feeling generous I like a lot of Starbucks coffee.. (:
- -------------------------------------------------------------------
- <link>https://www.paypal.me/JamieBland371</link>
---------------------------------------------------------------------
- <link>https://www.venmo.com/ItsJamesB</link> or @ItsJamesB in the venmo app search.
+ 
+ <link>https://www.paypal.me/JamieBland371</link>///////<link>https://www.venmo.com/ItsJamesB</link>/////or @ItsJamesB in the venmo app search.
+
+ 
 
  ## Download
 

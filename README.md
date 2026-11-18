@@ -141,7 +141,7 @@ Disclaimer. This project is for educational purposes only. Run it only on a car 
  
  <link>https://www.paypal.me/JamieBland371</link>
 
- <link>venmo.com/ItsJamesB</link>
+ <link>https://www.venmo.com/ItsJamesB</link>
 
  ## Download
 

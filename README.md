@@ -52,14 +52,23 @@ Apple CarPlay add-ons for the BMW / MINI NBT Evo head unit (iDrive 5 and iDrive 
 ## What does the app do?
 
 -It has .apk Auto Update pulled from my repository if an update is avaliable.
+
 -Backup head unit directory stored elsewhere so when you update the app it no longer deletes your backup.
+
 -.APK releases not longer allow to be accidently installed though the app and is blocked. Only .zip files are recognized to be installed on the app.
+
 -Buttons now show check marks so you know what you are pressing.
+
 -It unlocks SSH on the head unit the same way the original app did.
+
 -It checks the head unit’s software and saves a backup to your phone.
+
 -It allows for easy updates as developer continues to add new things and fixes bugs.
+
 -It uploads the installer script and the plugin files, and checks each upload by comparing its SHA-256 hash.
+
 -It runs carplay-advanced.sh install on the head unit, in full mode for known software versions and in HUD-only mode for any other.
+
 -It copies the head unit’s backup folder back to your phone.
 
 The app launches the project’s own installer script, not a reimplementation, and I checked the command line against that script. The two software versions the script knows about are ID5 1803-510-1749MA Build 71 and ID5 1703-490-1650ZD Build 139. Anything else gets the HUD-only install.

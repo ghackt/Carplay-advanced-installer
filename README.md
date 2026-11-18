@@ -9,6 +9,8 @@
 
 An easy AIO installer for those who have issues using SSH and installing things manually like I do sometimes.
 
+If you encounter any issues PLEASE OPEN A TICKET https://github.com/ghackt/Carplay-advanced-installer/issues/new
+
 ## Features Wired and wireless 
 
 Separate connection modes for Wired ENET and Wireless Adapter (BM3 & MHD).
@@ -111,7 +113,7 @@ Disclaimer. This project is for educational purposes only. Run it only on a car 
 - **@BimmerTuner** - the APK this was rebuilt from was shared via their repo [BimmerTuner/Supra-iDrive6-Android-Auto](https://github.com/BimmerTuner/Supra-iDrive6-Android-Auto). I have not confirmed they wrote any of it.
 - **@Ghackt** compiling all sources into a tested and working android application.
 
- ## I don't charge for Anything. If you paid for this from someone or someone is stealing this work, please report it to us.
+ ## I don't charge for Anything. If you paid for this from someone or someone is stealing this work, please report it to us. https://github.com/ghackt/Carplay-advanced-installer/issues/new
 
 - **@st1ng** 
 - **@Sq00ky** 
@@ -119,7 +121,7 @@ Disclaimer. This project is for educational purposes only. Run it only on a car 
 
  ## Donations or Coffee Giving
 
- - Tired of all these companies charging outrageous prices for other people’s work. also tired of these Chinese companies forcing people to buy MMI boxes and taking advantage of us all.
+ - Tired of all these companies charging outrageous prices for other people’s work. Also tired of these Chinese companies forcing people to buy MMI boxes and taking advantage of us all.
    
  - If you are feeling generous I like a lot of Starbucks coffee.. (: <link>https://www.paypal.me/JamieBland371</link>
 

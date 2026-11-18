@@ -1,4 +1,7 @@
 # Carplay-Advanced-Installer. Identical to NBT EVO APK Originally Developed by @BimmerTuner. But for Carplay Gauge / HUD Navigation Capabilities for ID5 and ID6
+
+First of all thank you all for giving me a shot and my files. If you encounter any issues PLEASE OPEN A TICKET https://github.com/ghackt/Carplay-advanced-installer/issues/new
+
 <img width="1206" height="880" alt="IMG_4488" src="https://github.com/user-attachments/assets/63d0d81f-be19-4f0c-a967-fed3e2ceee84" />
 <img width="5712" height="4284" alt="IMG_4478" src="https://github.com/user-attachments/assets/86b581c7-0184-4280-9d90-d2d12e09d181" />
 <img width="4284" height="5712" alt="IMG_4483" src="https://github.com/user-attachments/assets/29c190d7-90f9-4dd4-9872-16484c7fd069" />
@@ -8,8 +11,6 @@
 
 
 An easy AIO installer for those who have issues using SSH and installing things manually like I do sometimes.
-
-If you encounter any issues PLEASE OPEN A TICKET https://github.com/ghackt/Carplay-advanced-installer/issues/new
 
 ## Features Wired and wireless 
 

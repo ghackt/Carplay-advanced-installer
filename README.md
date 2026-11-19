@@ -91,24 +91,64 @@ Waze does not natively fully support cluster and heads-up Display.
 regarding Waze: https://waze.uservoice.com/forums/59223-waze-suggestion-box/suggestions/50043126-prioritize-full-carplay-integration-hud-instrum
 **You may still use Apple Maps and Google Maps with no issues**
 
-## Where the fuck are the settings?
-
-The menu:
-
-Media/Radio > CarPlay Advanced Settings
-  Full-screen CarPlay
-  CarPlay directions in HUD
-  HUD effects >        Fill toward the turn / Blink near the turn / Effect colour > (Orange, Grey, White)
-  iDrive control >     Enable knob tilts
-                       Touchpad >   Enable touchpad / Tap touchpad as click / Touchpad sensitivity > (Low, Medium, High)
-                                    / Two fingers tap to back
-                       Enable rotation as zoom
-  Restart to apply
-On iDrive 6 the HMI already does full screen, knob tilts and the touchpad (when the car is coded for it), so there the installer puts on the turn-by-turn part by default (--hud), with a HUD-only menu in the same place in Media/Radio:
-
-Media/Radio > CarPlay Advanced Settings
-  CarPlay directions in HUD
-  HUD effects >        Fill toward the turn / Blink near the turn / Effect colour > (Orange, Grey, White)
+## How do I install this?
+Step 1 — Download the app
+1.  On your Android phone, go to the Releases page.
+2.  Download CarPlay_Advanced_Installer_1.1.0.apk (or the newest version listed).
+3.  Optional but smart: compare the file's hash against SHA256SUMS.txt from the same release.
+The tweak payload (v1.1.0 and later) is bundled inside the app, so you don't need to download the payload zips separately unless you want a specific release.
+Step 2 — Install the APK
+1.  Open the downloaded APK on your phone.
+2.  If Android blocks it, allow Install unknown apps for your browser or file manager when prompted.
+3.  Finish the install and open CarPlay Advanced Installer.
+The app updates itself from the author's repository when a new version is available, and it keeps your head-unit backup in a separate location so updating the app doesn't delete it.
+Step 3 — Set up the connection
+Wired (ENET) — recommended
+1.  Plug the ENET cable into the car's OBD port and connect it to your phone with the USB-C adapter.
+2.  On the phone, turn on Ethernet tethering — on most Android phones it's in the Hotspot / tethering settings.
+3.  Connect the phone to a Wi-Fi hotspot so it still has internet access.
+4.  In the app, choose the Wired ENET connection mode.
+Wireless (BM3 / MHD) — experimental
+1.  Plug your BM3 or MHD dongle into the car.
+2.  In the app, choose the Wireless Adapter connection mode.
+Tip (general advice, not from the README): keep the ignition on for the whole process and consider a battery maintainer, so the car doesn't shut down mid-install.
+Step 4 — Connect and unlock SSH
+1.  Tap Connect to your BMW.
+2.  Let the app unlock SSH on the head unit.
+3.  If SSH fails: tap Restart head unit in the app, then try to reconnect while it is restarting.
+Buttons show a check mark once that step has been done, so you can track where you are.
+Step 5 — Back up the head unit
+Run the backup before installing anything. The app checks the head unit's software version and saves a backup to your phone. Don't skip this — it's what lets you restore later.
+Step 6 — Install the tweak
+1.  Pick the release to install. The list is read live from @st1ng's repository; offline, the app uses its bundled list. Only .zip payloads can be installed (APK files are blocked on purpose).
+2.  Start the install. The app uploads the installer script and plugin files, verifies each upload by SHA-256, then runs carplay-advanced.sh install on the head unit — full mode for the known ID5 versions, HUD-only for anything else.
+3.  Wait. It can take over 5 minutes. Don't disconnect or turn the car off.
+4.  When it finishes, the app copies the head unit's backup folder back to your phone.
+Step 7 — Restart the head unit
+After the flash completes, tap Restart head unit in the app. The new menu appears after the restart.
+Step 8 — Find and set up the new settings
+Go to Media/Radio → CarPlay Advanced Settings.
+iDrive 5 menu
+• Full-screen CarPlay
+• CarPlay directions in HUD
+• HUD effects: Fill toward the turn / Blink near the turn / Effect colour (Orange, Grey, White)
+• iDrive control: Enable knob tilts
+• Touchpad: Enable touchpad / Tap touchpad as click / Touchpad sensitivity (Low, Medium, High) / Two fingers tap to back
+• Enable rotation as zoom
+• Restart to apply
+iDrive 6 menu (HUD-only)
+• CarPlay directions in HUD
+• HUD effects: Fill toward the turn / Blink near the turn / Effect colour (Orange, Grey, White)
+Use Restart to apply after changing settings.
+Uninstalling or restoring
+The same app can uninstall the tweak and restore your backup. Connect the same way (Steps 3–4) and use the uninstall/restore option. The tweak only adds one line to the boot script and doesn't replace system files on disk, so removal is clean.
+Troubleshooting & known issues
+• SSH won't connect: restart the head unit from the app and reconnect while it reboots.
+• Install seems slow: over 5 minutes is normal; give it time.
+• Install stops partway (especially on ID6): copy the app's log and open an issue at github.com/ghackt/Carplay-advanced-installer/issues/new.
+• Waze: doesn't fully support cluster/HUD directions. Apple Maps and Google Maps work fine.
+• Android Auto tweak also installed: reported to work, but don't use CarPlay and Android Auto at the same time; no guarantees.
+• Likely to fail if: your head unit isn't iDrive 5/6, its base firmware isn't supported, or a previous third-party tool rewrote and locked the file system.
 
 
 ## I have tested this also while having Android Auto Install. I did not have any issues or complications as HUD nav is taken priority by whether you are using Carplay or Android Auto would not recommend trying to use both at the same time. Also cannot guarantee you will not run into issues using both installs.

@@ -5,11 +5,9 @@ PLEASE OPEN A TICKET https://github.com/ghackt/Carplay-advanced-installer/issues
 
 ## Donations or Coffee Giving.
 
-The application and updates are totally free. I make absolutely nothing from this. If you are feeling generous any small amount helps but its not required from you.
+The application and updates are totally free. I make absolutely nothing from this. If you are feeling generous any small amount helps and links for donations are below but its not required from you.
 
  - Been Tired of all these companies charging outrageous prices for other people’s work. Also been tired of these Chinese companies forcing people to buy MMI boxes and taking advantage of us all.
-   
- - If you are feeling generous I like a lot of Starbucks coffee.. (:
  
 <link>https://www.paypal.me/JamieBland371</link>
 

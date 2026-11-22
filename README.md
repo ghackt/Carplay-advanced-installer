@@ -1,6 +1,8 @@
 # Carplay-Advanced-Installer. Identical to NBT EVO APK Originally Developed by @BimmerTuner. Fully Redesigned from bits of code by @ghackt with many additional features But for Carplay Gauge / HUD Navigation Capabilities side for ID5 and ID6. This is not Android Auto Installer. This can work along side Android Auto tweak.
 
-First of all thank you all for giving me a shot and my files. If you encounter any issues PLEASE OPEN A TICKET https://github.com/ghackt/Carplay-advanced-installer/issues/new
+First of all thank you all for giving me a shot and my files. If you encounter any issues 
+
+PLEASE OPEN A TICKET https://github.com/ghackt/Carplay-advanced-installer/issues/new
 
 <img width="1206" height="880" alt="IMG_4488" src="https://github.com/user-attachments/assets/63d0d81f-be19-4f0c-a967-fed3e2ceee84" />
 <img width="5712" height="4284" alt="IMG_4478" src="https://github.com/user-attachments/assets/86b581c7-0184-4280-9d90-d2d12e09d181" />
@@ -8,6 +10,18 @@ First of all thank you all for giving me a shot and my files. If you encounter a
 <img width="4284" height="5712" alt="IMG_4485" src="https://github.com/user-attachments/assets/6e45b9f1-9bd6-442a-8fca-8f155e095d26" />
 <img width="4284" height="5712" alt="IMG_4484" src="https://github.com/user-attachments/assets/cf7ebf08-760f-4d72-98b5-b1a4aafd8690" />
 <img width="4284" height="5712" alt="IMG_4487" src="https://github.com/user-attachments/assets/29448410-a0fe-45c1-a91d-b6e6a4bd8a68" />
+
+## Donations or Coffee Giving
+
+ - Tired of all these companies charging outrageous prices for other people’s work. Also tired of these Chinese companies forcing people to buy MMI boxes and taking advantage of us all.
+   
+ - If you are feeling generous I like a lot of Starbucks coffee.. (:
+ 
+<link>https://www.paypal.me/JamieBland371</link>
+
+<link>https://www.venmo.com/ItsJamesB</link>
+ 
+or @ItsJamesB in the venmo app search.
 
 
 An easy AIO installer for those who have issues using SSH and installing things manually like I do sometimes.
@@ -173,26 +187,15 @@ Disclaimer. This project is for educational purposes only. Run it only on a car 
 - **@Sq00ky** 
 - **@BimmerTuner**
 
- ## Donations or Coffee Giving
-
- - Tired of all these companies charging outrageous prices for other people’s work. Also tired of these Chinese companies forcing people to buy MMI boxes and taking advantage of us all.
-   
- - If you are feeling generous I like a lot of Starbucks coffee.. (:
- 
- <link>https://www.paypal.me/JamieBland371</link>///////<link>https://www.venmo.com/ItsJamesB</link>/////or @ItsJamesB in the venmo app search.
-
- 
-
  ## Download
 
 https://github.com/ghackt/Carplay-advanced-installer/releases/
 
-See [`release/`](release/): `CarPlay_Advanced_Installer_1.1.0.apk`, the payload zips and `SHA256SUMS.txt`.
+See [`release/`](release/): `CarPlay_Advanced_Installer`, the payload zips and `SHA256SUMS.txt`.
 
 ## Additional Information
 
-I do not take full credit for this software: it is beyond my level of expertise, and it was rebuilt using some of my knowledge and some AI for stability tweaks.
-**Please report any bugs if you come across them** (open an Issue).
+I do not take entire credit for this software: It was rebuilt using some of my knowledge and some AI for stability tweaks.
 
 ## License
 

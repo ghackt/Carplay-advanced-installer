@@ -191,6 +191,8 @@ Disclaimer. This project is for educational purposes only. Run it only on a car 
 
 https://github.com/ghackt/Carplay-advanced-installer/releases/
 
+https://github.com/ghackt/CarPlay-Advanced-Installer---PC
+
 See [`release/`](release/): `CarPlay_Advanced_Installer`, the payload zips and `SHA256SUMS.txt`.
 
 ## Additional Information

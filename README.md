@@ -32,6 +32,13 @@ Separate connection modes for Wired ENET and Wireless Adapter (BM3 & MHD).
 
 Wireless adapter support remains experimental until further releases are made and requires compatible hardware.
 
+##SUPPORTED HEAD-UNIT SOFTWARE (full plugin; others get HUD directions only)
+  ID5_1803-510-1749MA_Build_71
+  ID5_1703-490-1650ZD_Build_139
+  ID5_1807-490-1809H_Build_29   (CarPlay library hash not pinned yet)
+  ID5_1903-490-1837J_Build_41   (also checks the mm-ipod hash)
+
+
 ## Requirements
 
 ENET with USB-C Adapter

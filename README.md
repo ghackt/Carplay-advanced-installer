@@ -1,4 +1,4 @@
-# Carplay-Advanced-Installer. Identical to NBT EVO APK Originally Developed by @BimmerTuner. Fully Redesigned from bits of code by @ghackt with many additional features But for Carplay Gauge / HUD Navigation Capabilities side for ID5 and ID6. This is not Android Auto Installer. This can work along side Android Auto tweak.
+# Carplay-Advanced-Installer. Similar to NBT EVO APK. Fully Redesigned from bits of code by @ghackt with many additional features But for Carplay Gauge / HUD Navigation Capabilities side for ID5 and ID6. This is not Android Auto Installer. This can work along side Android Auto tweak.
 
 First of all thank you all for giving me a shot and my files. If you encounter any issues 
 PLEASE OPEN A TICKET https://github.com/ghackt/Carplay-advanced-installer/issues/new
